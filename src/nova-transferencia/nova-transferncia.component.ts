@@ -17,5 +17,4 @@ export class NovaTransferenciaComponent {
     console.log(`Valor: ${this.valor}`)
     console.log(`Destino: ${this.destino}`)
   }
-
 }
